@@ -1,6 +1,7 @@
 # Excel-Project-2
 
 Coffee Shop Sales Dashboard Project
+
 Project Overview
 I created an interactive Coffee Sales Dashboard using Microsoft Excel to help a coffee shop analyze its sales data efficiently. The dashboard provides key insights into total sales trends, top customers, and sales distribution across different countries. It includes dynamic visualizations, slicers for filtering, and timeline controls for tracking sales performance over different periods.
 
